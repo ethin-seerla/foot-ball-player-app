@@ -1,12 +1,12 @@
-Title
+Title:
 
 Football Player Data Shiny App with CRUD and Visualization
 
-Overview
+Overview:
 
 This repository contains an R Shiny application for interactive management and exploration of a football players dataset. Users can create, read, update, and delete records and analyze the data with a scatter plot of Overall versus Potential and a histogram of Age. The application demonstrates reactive programming, data filtering, and exploratory visualization.
 
-Features
+Features:
 
 CRUD functionality to add, edit, and delete player records
 
@@ -18,13 +18,13 @@ ggplot2 histogram to study the distribution of player Age
 
 Reactive filters for name search, nationality, and age range
 
-Dataset
+Dataset:
 
 The included CSV contains sample players and attributes such as Name, Nationality, Age, OVA, POT, Club, Height, Weight, Preferred Foot, and others. The schema aligns with the app inputs. 
 
 Dataset for project
 
-Requirements
+Requirements:
 
 R version 4 or higher is recommended
 Packages
@@ -51,7 +51,7 @@ Project Structure
 app.R contains the full Shiny application code
 Dataset for project.txt contains the sample dataset
 
-How to Use
+How to Use:
 
 Use the sidebar to add or update a record by entering values in the form and clicking Add Record or Update Record
 
@@ -61,10 +61,5 @@ Filter the table and charts by entering a name, selecting a nationality, and adj
 
 Explore the scatter plot and histogram to understand relationships and distributions
 
-Notes
 
-If you want changes to persist across sessions, add a call to write.csv after Add, Update, or Delete. Consider validating inputs and enforcing unique IDs.
 
-License
-
-Choose a license and include a LICENSE file. MIT License is commonly used for academic demos.
