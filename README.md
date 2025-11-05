@@ -62,4 +62,9 @@ Filter the table and charts by entering a name, selecting a nationality, and adj
 Explore the scatter plot and histogram to understand relationships and distributions
 
 
+application preview:
+<img width="2554" height="1354" alt="image" src="https://github.com/user-attachments/assets/7d59d858-127c-4b3f-a688-be8d1d9395a4" />
+<img width="2559" height="1204" alt="image" src="https://github.com/user-attachments/assets/ee1b6373-6561-4ad5-9ee8-8d13bee3dfdb" />
+
+
 
