@@ -2,8 +2,8 @@ library(shiny)
 library(DT)
 library(plotly)
 library(ggplot2)
-dataset <- read.csv("C:/Users/ethin/Downloads/Dataset for project.txt",
-                    stringsAsFactors = FALSE)
+dataset <- read.csv("Dataset for project.txt", stringsAsFactors = FALSE)
+
 ui <- fluidPage(
   titlePanel("Football Player Data - CRUD & Visualization"),
   
@@ -150,5 +150,6 @@ server <- function(input, output, session) {
       labs(title = "Age Distribution", x = "Age", y = "Number of Players")
   })
 }
+
 
 shinyApp(ui, server)
