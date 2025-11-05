@@ -1,0 +1,16 @@
+ID,Name,LongName,Nationality,Age,OVA,POT,Club,Contract,Positions,Height,Weight,Preferred_Foot,BOV,Best_Position,Joined,AgeGroup,RatingCategory
+1,Lionel Messi,Lionel Andrés Messi,Argentina,36,91,91,Inter Miami,2023–2025,RF,170 cm,72 kg,Left,90,RW,2023,Senior,World Class
+2,Cristiano Ronaldo,Cristiano Ronaldo dos Santos Aveiro,Portugal,39,88,88,Al Nassr,2022–2025,ST,187 cm,83 kg,Right,87,ST,2022,Senior,World Class
+3,Kylian Mbappé,Kylian Mbappé Lottin,France,26,91,94,Real Madrid,2024–2029,LW,178 cm,73 kg,Right,92,ST,2024,Prime,Elite
+4,Erling Haaland,Erling Braut Haaland,Norway,25,90,93,Manchester City,2020–2027,ST,195 cm,94 kg,Left,90,ST,2020,Prime,Elite
+5,Kevin De Bruyne,Kevin De Bruyne,Belgium,33,89,89,Manchester City,2015–2026,CM,181 cm,70 kg,Right,88,CM,2015,Senior,World Class
+6,Neymar Jr,Neymar da Silva Santos Júnior,Brazil,33,88,88,Al Hilal,2023–2026,LW,175 cm,68 kg,Right,87,LW,2023,Senior,Elite
+7,Robert Lewandowski,Robert Lewandowski,Poland,37,88,88,Barcelona,2022–2026,ST,185 cm,81 kg,Right,87,ST,2022,Senior,World Class
+8,Jude Bellingham,Jude Bellingham,England,22,86,92,Real Madrid,2023–2030,CM,186 cm,75 kg,Right,88,CM,2023,Young,Elite
+9,Pedri,Pedro González López,Spain,22,85,91,Barcelona,2020–2027,CM,174 cm,64 kg,Right,86,CM,2020,Young,Elite
+10,Gavi,Pablo Martín Páez Gavira,Spain,21,83,90,Barcelona,2021–2026,CM,173 cm,68 kg,Right,84,CM,2021,Young,Elite
+11,Virgil van Dijk,Virgil van Dijk,Netherlands,34,89,89,Liverpool,2018–2026,CB,193 cm,92 kg,Right,88,CB,2018,Senior,World Class
+12,Thibaut Courtois,Thibaut Courtois,Belgium,33,88,88,Real Madrid,2018–2026,GK,199 cm,96 kg,Left,87,GK,2018,Senior,World Class
+13,Marcus Rashford,Marcus Rashford,England,27,84,88,Manchester United,2016–2028,LW,185 cm,70 kg,Right,85,LW,2016,Prime,Elite
+14,Phil Foden,Philip Foden,England,25,86,91,Manchester City,2017–2027,LW,171 cm,69 kg,Left,87,LW,2017,Prime,Elite
+15,Karim Benzema,Karim Mostafa Benzema,France,38,86,86,Al-Ittihad,2023–2026,ST,185 cm,81 kg,Right,85,ST,2023,Senior,Elite
